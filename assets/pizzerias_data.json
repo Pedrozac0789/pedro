@@ -1,0 +1,76 @@
+{
+  "pizzerias": [
+    {
+      "name": "Pizzaria do João",
+      "location": "Rua A, 123",
+      "pizzas": [
+        {
+          "flavor": "Margherita",
+          "price": 25.00,
+          "ingredients": ["Queijo", "Tomate", "Manjericão"],
+          "allergies": ["Lactose"]
+        },
+        {
+          "flavor": "Pepperoni",
+          "price": 30.00,
+          "ingredients": ["Queijo", "Pepperoni", "Molho de Tomate"],
+          "allergies": ["Lactose", "Glúten"]
+        },
+        {
+          "flavor": "Frango com Catupiry",
+          "price": 32.00,
+          "ingredients": ["Queijo", "Frango", "Catupiry", "Molho de Tomate"],
+          "allergies": ["Lactose", "Glúten"]
+        },
+        {
+          "flavor": "Portuguesa",
+          "price": 35.00,
+          "ingredients": ["Queijo", "Presunto", "Ovo", "Cebola", "Azeitona"],
+          "allergies": ["Lactose", "Glúten"]
+        }
+      ]
+    },
+    {
+      "name": "Pizzaria da Maria",
+      "location": "Rua B, 456",
+      "pizzas": [
+        {
+          "flavor": "Vegetariana",
+          "price": 28.00,
+          "ingredients": ["Queijo", "Pimentão", "Cebola"],
+          "allergies": []
+        },
+        {
+          "flavor": "Napolitana",
+          "price": 30.00,
+          "ingredients": ["Queijo", "Tomate", "Anchovas", "Alho"],
+          "allergies": ["Lactose"]
+        },
+        {
+          "flavor": "Quatro Queijos",
+          "price": 35.00,
+          "ingredients": ["Queijo Mussarela", "Queijo Prato", "Queijo Gorgonzola", "Queijo Parmesão"],
+          "allergies": ["Lactose"]
+        }
+      ]
+    },
+    {
+      "name": "Pizzaria do Carlos",
+      "location": "Rua C, 789",
+      "pizzas": [
+        {
+          "flavor": "Calabresa",
+          "price": 27.00,
+          "ingredients": ["Queijo", "Calabresa", "Cebola", "Azeitona"],
+          "allergies": ["Lactose", "Glúten"]
+        },
+        {
+          "flavor": "Marinara",
+          "price": 22.00,
+          "ingredients": ["Molho de Tomate", "Alho", "Azeite", "Orégano"],
+          "allergies": []
+        }
+      ]
+    }
+  ]
+}
